@@ -1,0 +1,10 @@
+200 OK
+Content-Length: 91
+Retry-Count: 0
+Last-Modified: Thu, 28 May 2020 16:50:24 GMT
+Accept-Ranges: bytes
+Etag: "5b-5a6b81ff69400"
+Content-Type: text/html
+Strict-Transport-Security: max-age=60
+Date: Wed, 19 Jun 2024 17:50:45 GMT
+Server: Apache

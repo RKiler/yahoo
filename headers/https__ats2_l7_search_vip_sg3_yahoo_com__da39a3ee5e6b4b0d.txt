@@ -1,0 +1,13 @@
+200 (OK)
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Vary: *
+Content-Type: text/plain
+Age: 0
+Strict-Transport-Security: max-age=31536000
+Retry-Count: 0
+Cache-Control: private
+Date: Wed, 19 Jun 2024 17:50:18 GMT
+Server: ATS
+Content-Length: 4
+Referrer-Policy: no-referrer-when-downgrade

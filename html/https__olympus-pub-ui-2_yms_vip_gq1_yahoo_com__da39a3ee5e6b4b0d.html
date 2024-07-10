@@ -1,0 +1,15 @@
+<!DOCTYPE html> <html class="no-js"> <head> <meta charset="utf-8"> <title></title> <meta name="description" content=""> <meta name="viewport" content="width=device-width" scale="1"> <link rel="icon" type="image/ico" href="images/favicon.ico"> </head> <body> <script> var origin = document.location.origin;
+        var hash = document.location.hash;
+
+        if (hash) {
+            sessionStorage.setItem('hash', hash);
+        }
+
+        if (origin.match(/https:\/\/.*.yahoo.com/)) {
+            origin = "https://olympus.yamas.ouroath.com/" + hash;
+        }
+        else {
+            origin += "/d/";
+        }
+
+        document.location.replace(origin); </script> </body> </html> 

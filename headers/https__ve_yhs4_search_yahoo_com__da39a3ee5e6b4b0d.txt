@@ -1,0 +1,18 @@
+200 OK
+Set-Cookie: PROMO=ltv_pid=&ltv_new=1&ltv_ts=1718819427&ltv_sts=1718819427&ltv_c=1; expires=Thu, 19-Jun-2025 17:50:27 GMT; Max-Age=31536000; path=/; domain=.search.yahoo.com
+X-Frame-Options: DENY
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Vary: Accept-Encoding
+Cache-Control: private
+Age: 0
+Date: Wed, 19 Jun 2024 17:50:27 GMT
+Secure_search_bypass: true
+X-Envoy-Decorator-Operation: yhs-k8s--production-gq1.search--web-syc-k8s.svc.yahoo.local:4080/*
+X-Content-Type-Options: nosniff
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Content-Type: text/html; charset=UTF-8
+X-Envoy-Upstream-Service-Time: 309
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade

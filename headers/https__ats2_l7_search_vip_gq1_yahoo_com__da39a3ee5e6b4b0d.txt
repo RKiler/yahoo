@@ -1,0 +1,13 @@
+200 (OK)
+Server: ATS
+Content-Type: text/plain
+Age: 0
+Strict-Transport-Security: max-age=31536000
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Cache-Control: private
+Date: Wed, 19 Jun 2024 17:50:05 GMT
+Vary: *
+Content-Length: 4
+Retry-Count: 0
+X-Content-Type-Options: nosniff

@@ -1,0 +1,18 @@
+200 OK
+Expires: -1
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=utf-8
+X-Aspnet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 19 Jun 2024 17:50:09 GMT
+Content-Length: 294
+Retry-Count: 0
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'self' https://tw.livechat.yahoo.com/ ; font-src * 'self' 'unsafe-inline'; style-src * 'unsafe-inline' ; media-src * data:; script-src 'self' 'unsafe-inline' 'unsafe-eval' static.line-scdn.net cdn.jsdelivr.net api.line.me cdn.staticfile.org cdnjs.cloudflare.com https://pay.google.com/gp/p/js/pay.js www.googletagmanager.com www.google-analytics.com; img-src * data: blob: ; connect-src 'self' ws://127.0.0.1:61110/ static.line-scdn.net api.line.me blob: tw.livechat-cc.yahoo.com:9999 *.livechat-cc.yahoo.com:9999; frame-src *; frame-ancestors 'self' teola.3rdchannel.com.tw teola.digitalcenter.cn dev-store.cntt.co.kr http://tw.livechat.yahoo.com tw.livechat.yahoo.com http://stg-gss-support.bach.Yahoo.com stg-gss-support.bach.Yahoo.com http://stg-network-support.bach.Yahoo.com stg-network-support.bach.Yahoo.com http://stg-promotion.bach.Yahoo.com/tw stg-promotion.bach.Yahoo.com/tw tw.livechat.yahoo.com *.livechat.yahoo.com/ *.livechat.yahoo.com tw.livechat-cc.yahoo.com *.livechat-cc.yahoo.com/ *.livechat-cc.yahoo.com tw.livechat-cc.yahoo.com:9999 *.livechat-cc.yahoo.com:9999/ *.livechat-cc.yahoo.com:9999
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000
+Age: 1

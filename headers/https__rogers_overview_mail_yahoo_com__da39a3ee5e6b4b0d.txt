@@ -1,0 +1,14 @@
+200 OK
+Server: ATS
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Envoy-Upstream-Service-Time: 8
+Content-Length: 7509
+Etag: W/"1d55-Ob/cOCgUfHCwhrJoxUPZmmLF4Sk"
+Date: Wed, 19 Jun 2024 17:50:28 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Age: 0
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Type: text/html; charset=utf-8

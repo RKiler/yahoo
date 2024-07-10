@@ -1,0 +1,17 @@
+200 OK
+X-Frame-Options: DENY
+Content-Security-Policy: child-src blob: 'self';connect-src 'self' https://*.yimg.com https://*.yahoo.com https://s.yimg.com/nq/ads/mb/native/* https://service.cmp.oath.com https://www.yahoo.com/p.gif https://smetrics.att.com/id https://dpm.demdex.net/id https://video-api.yql.yahoo.com/ https://edgecast-vod.yahoo.net/ https://*.vpg.cdn.yimg.com/ https://media.zenfs.com/ https://assets.video.yahoo.net/ https://ads.adaptv.advertising.com/ https://video.adaptv.advertising.com/ https://consent.yahoo.com/ https://ganon.yahoo.com/ https://geo.yahoo.com/ https://guce.yahoo.com/ https://api.taboola.com/1.2/json/taboola-usersync/user.sync;default-src 'self';font-src https: data:;frame-src https://*.yahoo.com https://*.yimg.com https://*.ymail.com https://secure.bannerfarm.ace.advertising.com https://cmp.advertising.com https://assets.video.yahoo.net/ https://opus.analytics.yahoo.com https://tsdtocl.com/ https://consent.yahoo.com/ https://guce.yahoo.com/ https://pfs.yahoo.com https://gpt.mail.yahoo.net/sandbox https://alpha-gpt.mail.yahoo.net/sandbox https://alpha-gam.mail.yahoosandbox.net/sandbox https://canary-gam.mail.yahoosandbox.net/sandbox https://gam.mail.yahoosandbox.net/sandbox https://norrin.tbl.mail.yahoosandbox.net https://alpha-tbl.mail.yahoosandbox.net https://tbl.mail.yahoosandbox.net;img-src data: blob: http: https: https://ganon.yahoo.com/ https://geo.yahoo.com/;media-src blob: https://*.yahoo.com https://*.yimg.com;report-uri https://csp.yahoo.com/beacon/csp?src=mail-norrin;script-src 'self' https://s.yimg.com/nq/nr/ https://s.yimg.com/os/yaft/ https://s.yimg.com/ss/ https://s.yimg.com/aaq/yc/ https://s.yimg.com/ds/scripts/ https://www.gstatic.com/cv/js/sender/v1/cast_sender.js https://s.yimg.com/aaq/vzm/ https://s.yimg.com/cx/pv/ https://s.yimg.com/nq/polyfills/ https://yep.video.yahoo.com/ https://s.yimg.com/rx/ https://assets.video.yahoo.net/ https://jsapi.login.yahoo.com/w/ https://s.aolcdn.com/membership/omp-static/omp-widgets/ https://qa.checkout.yahoo.com/widget/ https://checkout.yahoo.com/widget/ https://s.yimg.com/cv/apiv2/partner-portals/att/adobe_analytics/ https://consent.cmp.oath.com/ https://opus.analytics.yahoo.com/ https://s.yimg.com/oa/ https://s.yimg.com/uc/sf/ https://s.yimg.com/cx/acookie/ 'sha256-lRMQ2lQozgbWLOqNJOrnclJXX6G77pQVIlF8SAI3++I=' 'sha256-xx5VFh71P/poOsh6S7wo5Hz/h6kNWHqOpIqJR04djx4=' 'unsafe-inline' 'unsafe-eval' 'report-sample' https://s.yimg.com/oa/ 'nonce-T+D4DuXolCbJ6fqfVFfbdXAgYRhtbCOtEqfUfLGFPNBXjwWP' ;style-src 'self' https://s.yimg.com/nq/nr/ https://assets.video.yahoo.net/ 'unsafe-inline';worker-src 'self' blob:;manifest-src https://s.yimg.com/nq/nr/json/
+Vary: Accept-Encoding
+Server: ATS
+Strict-Transport-Security: max-age=31536000
+X-Envoy-Upstream-Service-Time: 22
+X-Content-Type-Options: nosniff
+X-Omg-Env: norrin-blue--istio-production-gq1-6f557d5d96-x6j29
+Etag: W/"325c-YM/Xc+SoreMGNuV4x/TL8xOuJ/E"
+Date: Wed, 19 Jun 2024 17:50:28 GMT
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=utf-8
+Age: 0
+Referrer-Policy: origin-when-cross-origin

@@ -1,0 +1,16 @@
+200 OK
+Cache-Control: max-age=0, private
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Age: 0
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Date: Wed, 19 Jun 2024 17:50:06 GMT
+Expires: -1
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+X-Envoy-Upstream-Service-Time: 102
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,13 @@
+200 OK
+Servletwebservicefilter-Enabled: true
+Age: 0
+X-Content-Type-Options: nosniff
+Date: Wed, 19 Jun 2024 17:51:25 GMT
+Server: ATS
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Vary: Accept-Encoding
+Content-Length: 0
+X-Envoy-Upstream-Service-Time: 1
+Referrer-Policy: no-referrer-when-downgrade

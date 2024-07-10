@@ -1,0 +1,15 @@
+200 OK
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only
+X-Envoy-Upstream-Service-Time: 610
+Server: ATS
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy-Report-Only: connect-src 'self' https://*.yahoo.com https://*.yahoo.net https://*.yimg.com https://*.adaptv.advertising.com https://ad.doubleclick.net https://edgecast-vod.yahoo.net https://pagead2.googlesyndication.com https://securepubads.g.doubleclick.net https://tpc.googlesyndication.com;default-src 'self' https://*.yahoo.com https://s.yimg.com;font-src 'self' https://*.yahoo.com https://s.yimg.com;frame-src 'self' https://*.yahoo.com https://*.yahoo.net https://*.safeframe.googlesyndication.com https://s.yimg.com https://tpc.googlesyndication.com/ https://tw.screener.finance.yahoo.net https://www.google.com/;img-src 'self' data: https:;media-src https://edgecast-vod.yimg.com blob:;script-src 'self' 'unsafe-eval' 'unsafe-inline' https://*.yahoo.com https://*.yahoo.net https://s.yimg.com https://consent.cmp.oath.com https://s.update.wtag.adaptv.advertising.com https://securepubads.g.doubleclick.net https://tpc.googlesyndication.com https://www.gstatic.com;style-src 'self' 'unsafe-inline' https://*.yahoo.net https://s.yimg.com;worker-src 'self' https://*.yahoo.com blob:;frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://tw.discount.yahoo.net;report-uri https://csp.yahoo.com/beacon/csp?src=td-app-stock;upgrade-insecure-requests
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://tw.discount.yahoo.net;
+Strict-Transport-Security: max-age=31536000
+Retry-Count: 0
+Date: Wed, 19 Jun 2024 17:50:53 GMT
+Age: 1
+Referrer-Policy: no-referrer-when-downgrade
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding

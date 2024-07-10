@@ -1,0 +1,18 @@
+200 OK
+Content-Security-Policy: default-src 'self' yahoo.com *.yahoo.com *.yimg.com; script-src 'self' 'unsafe-eval' https: http: blob:; style-src 'self' 'unsafe-inline'; img-src * data:; object-src 'none'; frame-src data:; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; report-uri https://csp.yahoo.com/beacon/csp?src=creators; connect-src 'self' *.yahoo.com *.aws.oath.cloud:9000 https://beaconeater.media.yahoo.com:4443
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Envoy-Decorator-Operation: y4c--aws-production-usw2.frontpage-aws-prod:4080/*
+Age: 0
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000
+Date: Wed, 19 Jun 2024 17:50:03 GMT
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Powered-By: Next.js
+Etag: "th8wem1pidmzc"
+Content-Type: text/html; charset=utf-8
+X-Envoy-Upstream-Service-Time: 11

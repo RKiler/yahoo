@@ -1,0 +1,22 @@
+200 OK
+X-Amz-Id-2: 8RkZdK9XE0An5Jr2IO336nayLkmGrfaZx4QPBOiF5riHLT2YtE93SbEsLKzTTeXlgY26EwsZ/M4=
+Cache-Control: max-age=31536000
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Amz-Request-Id: 6FY5EGC4V0A759YA
+Date: Sat, 08 Jun 2024 01:19:52 GMT
+Last-Modified: Tue, 19 Mar 2024 10:30:01 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Age: 1009883
+Access-Control-Allow-Origin: *
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Etag: "79a5433ef5fcf08b3923a00457d19108-df"
+X-Amz-Server-Side-Encryption: AES256
+Content-Type: text/html; charset=utf-8
+Server: ATS
+Vary: Accept-Encoding,Origin
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Ats-Carp-Promotion: 1 1

@@ -1,0 +1,17 @@
+200 OK
+Secure_search_bypass: true
+X-Frame-Options: DENY
+Vary: Accept-Encoding
+Age: 1
+Referrer-Policy: no-referrer-when-downgrade
+Date: Wed, 19 Jun 2024 17:50:26 GMT
+Content-Security-Policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-RVuqUmLi9U+6b5p8ftjd3w==' 'unsafe-eval' https://*.yahoo.net https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com https://*.hereapi.com https://*.youtube.com *.yahooapis.com blob: https://cdn.ampproject.org/rtv/ https://securepubads.g.doubleclick.net/tag/js/gpt.js https://securepubads.g.doubleclick.net/gpt/ https://adservice.google.com/adsid/integrator.js https://securepubads.g.doubleclick.net/pagead/ https://tpc.googlesyndication.com/sodar/sodar2.js https://tpc.googlesyndication.com/pagead/js/ https://www.googletagservices.com/activeview/js/current/rx_lidar.js https://pagead2.googlesyndication.com/pagead/ https://pagead2.googlesyndication.com/gampad/ https://console.googletagservices.com/pubconsole/loader.js https://www.googletagservices.com/activeview/js/ https://hb.yahoo.net/bidexchange.js https://opus.analytics.yahoo.com/tag/opus.js https://hb.yahoo.net/tcb.js https://pagead2.googlesyndication.com/tag/js/gpt.js; style-src 'self' 'unsafe-inline' https://assets.video.yahoo.net https://*.yimg.com; img-src 'self' data: blob: https://*.aol.com https://s.aolcdn.com https://*.bing.net https://*.yimg.com https://s.ytimg.com yahoo.com https://*.yahoo.com https://*.bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com https://*.adaptv.advertising.com https://*.vidible.tv https://*.yahoo.net https://*.footprint.net https://*.akamaized.net https://*.cloudfront.net https://*.llnwd.net https://securepubads.g.doubleclick.net/pagead/adview http://www.google.com/ads/measurement/l https://googleads.g.doubleclick.net/pagead/interaction/ https://*.googlesyndication.com; frame-src 'self' https://*.yahoo.net https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com https://*.vidible.tv https://*.advertising.com https://fun.games.com/ https://interactives.ap.org https://*.safeframe.googlesyndication.com https://tpc.googlesyndication.com https://www.google.com https://securepubads.g.doubleclick.net https://console.googletagservices.com; media-src * blob:; object-src *; connect-src * blob: https://securepubads.g.doubleclick.net/pagead/ https://securepubads.g.doubleclick.net/gampad/ads https://securepubads.g.doubleclick.net/pcs/view https://pagead2.googlesyndication.com/getconfig/sodar https://pagead2.googlesyndication.com/pagead/ https://pagead2.googlesyndication.com/pcs/activeview https://pagead2.googlesyndication.com/gampad/ads https://csi.gstatic.com https://*.media.net; font-src * data:; child-src blob:;
+Server: ATS
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Envoy-Upstream-Service-Time: 43
+X-Envoy-Decorator-Operation: vertical-k8s--production-sg3.search--web-syc-k8s.svc.yahoo.local:4080/*
+Strict-Transport-Security: max-age=31536000
+Retry-Count: 0
+Content-Type: text/html; charset=UTF-8

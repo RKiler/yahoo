@@ -1,0 +1,17 @@
+200 OK
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only
+Content-Security-Policy: default-src 'self' blob: 'unsafe-eval' 'unsafe-inline' wss://*.yahoo.com https://*.yimg.com https://*.yahoo.com https://*.yahooapis.com https://*.oath.com https://ecstorewebview https://ecauctionwebview https://ecshoppingwebview https://*.juiker.net https://*.amazonaws.com https://*.googleapis.com https://*.google.com https://*.google.com.tw https://*.google-analytics.com https://*.googletagmanager.com https://www.youtube.com https://cdnjs.cloudflare.com wss://*.straas.net https://*.straas.net https://*.criteo.com https://*.criteo.net https://pixel.rubiconproject.com https://contextual.media.net https://sync.outbrain.com https://ib.adnxs.com https://secure.adnxs.com https://x.bidswitch.net https://s.ad.smaato.net https://c.bing.com https://criteo-sync.teads.tv https://gum.criteo.com https://ups.analytics.yahoo.com https://rtb-csync.smartadserver.com https://r.casalemedia.com https://adx.dable.io https://sync.aralego.com https://sync-criteo.ads.yieldmo.com https://ad.360yield.com https://id5-sync.com https://eb2.3lift.com https://simage2.pubmatic.com https://cm.g.doubleclick.net https://*.scupio.com https://*.doubleclick.net https://sync.aralego.com https://pixel.advertising.com https://*.facebook.com https://*.facebook.net https://*.gstatic.com https://blog.lalacube.com/mei/;frame-src 'self' https://*.yahoo.com https://*.straas.net https://*.youtube.com https://*.facebook.com https://*.criteo.com https://*.criteo.net https://*.scupio.com https://*.google.com https://*.doubleclick.net;frame-ancestors 'self' https://*.yahoo.com;media-src * data: blob:;font-src * data: blob:;img-src * data: blob:;object-src;report-uri /fe/report-violation
+Content-Type: text/html; charset=utf-8
+Date: Wed, 19 Jun 2024 17:51:08 GMT
+Server: ATS
+Retry-Count: 0
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Powered-By: Express
+Etag: W/"ddc26-ILDuKrHQewHg8CFrCWuooLHMTrQ"
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Envoy-Upstream-Service-Time: 257
+Age: 0

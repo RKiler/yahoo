@@ -1,0 +1,14 @@
+200 OK
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Vary: Accept-Encoding
+Server: ATS
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: private
+Strict-Transport-Security: max-age=31536000
+Date: Wed, 19 Jun 2024 17:50:16 GMT
+Age: 15
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0

@@ -1,0 +1,17 @@
+200 OK
+Content-Security-Policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-z16yCO0bGgr5GQFjNiB5ZQ==' 'unsafe-eval' https://*.yahoo.net https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com https://*.hereapi.com https://*.youtube.com *.yahooapis.com blob:; style-src 'self' 'unsafe-inline' https://assets.video.yahoo.net https://*.yimg.com; img-src 'self' data: blob: https://*.aol.com https://s.aolcdn.com https://*.bing.net https://*.yimg.com https://s.ytimg.com yahoo.com https://*.yahoo.com https://*.bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com https://*.adaptv.advertising.com https://*.vidible.tv https://*.yahoo.net https://*.footprint.net https://*.akamaized.net https://*.cloudfront.net https://*.llnwd.net; frame-src 'self' https://*.yahoo.net https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com https://*.vidible.tv https://*.advertising.com https://fun.games.com/ https://interactives.ap.org; media-src * blob:; object-src *; connect-src * blob:; font-src * data:; child-src blob:;
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+X-Envoy-Upstream-Service-Time: 53
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Date: Wed, 19 Jun 2024 17:50:55 GMT
+Cache-Control: private
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Server: ATS
+Retry-Count: 0
+Set-Cookie: B=c7k55dlj766jv&b=3&s=bd; expires=Thu, 19-Jun-2025 17:50:55 GMT; path=/; domain=.yahoo.com; secure PROMO=ono_sc=1&ono_fts=1718819455&ltv_pid=&ltv_new=1&ltv_ts=1718819455&ltv_sts=1718819455&ltv_c=1; expires=Thu, 19-Jun-2025 17:50:55 GMT; Max-Age=31536000; path=/; domain=.search.yahoo.com
+Secure_search_bypass: true
+X-Frame-Options: DENY
+Age: 0
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"

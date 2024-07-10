@@ -1,0 +1,13 @@
+200 OK
+Age: 2
+X-Envoy-Upstream-Service-Time: 834
+Server: ATS
+Date: Wed, 19 Jun 2024 17:50:08 GMT
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html; charset=utf-8
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding

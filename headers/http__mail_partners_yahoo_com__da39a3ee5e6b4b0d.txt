@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html;charset=UTF-8
+Retry-Count: 0
+Referrer-Policy: strict-origin
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=wCWx3JVuBz2Y4NQ7yWYbY.DkJUIjuk7BpxEPBdDPX60-1718819459-1.0.1.1-4aJ6QYlKjZUy.6RlkEeB29pMSxkWQIl2sjl.bV8WaRtOesT8dQ6YvDt9xbL.l.0Y3VaOt3P8HrnEPnlpsrNaKQ; path=/; expires=Wed, 19-Jun-24 18:20:59 GMT; domain=.mail.partners.yahoo.com; HttpOnly
+Content-Security-Policy: default-src 'self'; img-src 'self';script-src 'self' 'sha256-J+Y4l+yfxXd4cYzH9LhXUSHSb7zZu2bgddfCumVZJMo=';object-src 'none';form-action 'none';frame-src 'none';style-src 'self' 'sha256-OU0LTytxyR8kjQ+DRjRCDKhUAKEeH7rb0D5nBWOzRlQ='
+Cf-Ray: 89655d53ea0d1758-SJC
+X-Request-Id: e2f9ec9b787f67dc
+Date: Wed, 19 Jun 2024 17:50:59 GMT
+Cache-Control: private, no-cache, no-store, max-age=0
+X-Frame-Options: SAMEORIGIN
+Server: cloudflare

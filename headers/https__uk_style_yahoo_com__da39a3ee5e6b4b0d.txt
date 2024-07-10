@@ -1,0 +1,17 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; report="https://csp.yahoo.com/beacon/csp?src=fp-hpkp-ukst"
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+X-Envoy-Upstream-Service-Time: 80
+Age: 0
+Content-Security-Policy: frame-ancestors 'self' https://*.builtbygirls.com https://*.rivals.com https://*.engadget.com https://*.intheknow.com https://*.autoblog.com https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.pnr.ouryahoo.com https://pnr.ouryahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.onesearch.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=style&region=GB&lang=en-GB&device=desktop&yrid=6nael0hj766ju&partner=;
+Vary: Accept-Encoding
+Date: Wed, 19 Jun 2024 17:50:54 GMT
+Cache-Control: max-age=0, private
+Expires: -1
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: SAMEORIGIN
+Retry-Count: 0

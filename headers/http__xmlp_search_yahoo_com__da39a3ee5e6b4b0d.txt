@@ -1,0 +1,17 @@
+200 OK
+Referrer-Policy: no-referrer-when-downgrade
+Date: Wed, 19 Jun 2024 17:51:11 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Content-Security-Policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-kl9ZQoU9YxWShyU58KyCEg==' 'unsafe-eval' https://*.yahoo.net https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com https://*.hereapi.com https://*.youtube.com *.yahooapis.com blob:; style-src 'self' 'unsafe-inline' https://assets.video.yahoo.net https://*.yimg.com; img-src 'self' data: blob: https://*.aol.com https://s.aolcdn.com https://*.bing.net https://*.yimg.com https://s.ytimg.com yahoo.com https://*.yahoo.com https://*.bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com https://*.adaptv.advertising.com https://*.vidible.tv https://*.yahoo.net https://*.footprint.net https://*.akamaized.net https://*.cloudfront.net https://*.llnwd.net; frame-src 'self' https://*.yahoo.net https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com https://*.vidible.tv https://*.advertising.com https://fun.games.com/ https://interactives.ap.org; media-src * blob:; object-src *; connect-src * blob:; font-src * data:; child-src blob:;
+Age: 0
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+X-Frame-Options: DENY
+Content-Type: text/html; charset=UTF-8
+X-Envoy-Upstream-Service-Time: 51
+Server: ATS
+Retry-Count: 0
+Set-Cookie: B=3g3cq89j766kf&b=3&s=nt; expires=Thu, 19-Jun-2025 17:51:11 GMT; path=/; domain=.yahoo.com; secure PROMO=ono_sc=1&ono_fts=1718819471&ltv_pid=&ltv_new=1&ltv_ts=1718819471&ltv_sts=1718819471&ltv_c=1; expires=Thu, 19-Jun-2025 17:51:11 GMT; Max-Age=31536000; path=/; domain=.search.yahoo.com
+Vary: Accept-Encoding
+Cache-Control: private
+Secure_search_bypass: true

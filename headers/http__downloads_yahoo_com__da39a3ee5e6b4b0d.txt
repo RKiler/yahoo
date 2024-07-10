@@ -1,0 +1,17 @@
+200 OK
+Referrer-Policy: no-referrer-when-downgrade
+Server: ATS
+Strict-Transport-Security: max-age=31536000
+Content-Length: 190686
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=0
+Last-Modified: Tue, 01 Jan 1980 00:00:00 GMT
+Etag: W/"2e8de-4977387000"
+X-Xss-Protection: 1; mode=block
+Date: Wed, 19 Jun 2024 17:50:30 GMT
+Apigw-Requestid: ZoEQBh7CPHcEMLQ=
+Age: 0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Retry-Count: 0
+Accept-Ranges: bytes

@@ -1,0 +1,16 @@
+200 OK
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Content-Security-Policy: child-src blob:;connect-src 'self' https://*.yimg.com https://*.yahoo.com https://*.aol.com https://consent.yahoo.com/ https://ganon.yahoo.com/ https://geo.yahoo.com/ https://guce.yahoo.com;default-src 'self';font-src https: data:;frame-src https://*.yahoo.com https://*.yimg.com https://*.ymail.com https://consent.yahoo.com/ https://guce.yahoo.com;img-src data: blob: http: https: https://ganon.yahoo.com/ https://geo.yahoo.com/;media-src blob: https://*.yahoo.com https://*.yimg.com;report-uri https://csp.yahoo.com/beacon/csp?src=mail-epoch;script-src 'self' 'unsafe-inline' 'unsafe-eval' https://jsapi.login.yahoo.com/w/ https://s.yimg.com/nq/ep/1.0.1523/bundle/bundle_epoch_calendar.js https://s.yimg.com/nq/ep/1.0.1523/bundle/bundle_epoch_calendar_test.js https://s.yimg.com/aaq/wf/wf-rapid-1.2.4-modern.js https://s.yimg.com/aaq/wf/wf-core-1.42.16.js https://s.yimg.com/aaq/wf/wf-loader-1.1.83.js https://alpha-mg.mail.yahoo.com/public/js/rapidworker_1.2.js https://s.yimg.com/ss/rapid-3.53.20.js https://s.yimg.com/oa/consent.js https://s.yimg.com/os/yaft/yaft-0.3.29.min.js https://s.yimg.com/ss/ https://edge-mcdn.secure.yahoo.com/ybar/cerebro_min.js https://s.yimg.com/oa/;style-src 'self' 'unsafe-inline' https://s.yimg.com/nq/ep/1.0.1523/bundle/ltr/calendar.css https://s.yimg.com/nq/ep/1.0.1523/bundle/rtl/calendar.css;worker-src 'self';manifest-src https://s.yimg.com/nq/nr/json/
+Date: Wed, 19 Jun 2024 17:51:03 GMT
+X-Frame-Options: DENY
+Vary: Accept-Encoding
+Referrer-Policy: origin-when-cross-origin
+X-Envoy-Upstream-Service-Time: 64
+Strict-Transport-Security: max-age=31536000
+X-Omg-Env: epoch-green--production-gq1-5f47dcbdb9-zjc66
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+Server: ATS
+Content-Type: text/html; charset=utf-8
+Age: 0

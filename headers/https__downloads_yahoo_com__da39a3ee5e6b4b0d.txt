@@ -1,0 +1,17 @@
+200 OK
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000
+Referrer-Policy: no-referrer-when-downgrade
+Last-Modified: Tue, 01 Jan 1980 00:00:00 GMT
+Apigw-Requestid: ZnvxUis9vHcEPsg=
+Age: 8440
+Retry-Count: 0
+Date: Wed, 19 Jun 2024 15:30:41 GMT
+Content-Length: 190686
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=0
+Etag: W/"2e8de-4977387000"
+Server: ATS
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN

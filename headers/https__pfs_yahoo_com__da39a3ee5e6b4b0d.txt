@@ -1,0 +1,18 @@
+200 OK
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15552000
+X-Xss-Protection: 1; mode=block
+Date: Wed, 19 Jun 2024 17:51:12 GMT
+Retry-Count: 0
+Expires: 0
+Content-Type: text/html; charset=utf-8
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Age: 0
+Content-Security-Policy: base-uri 'self';child-src 'self' https://login.yahoo.net https://s.yimg.com https://s1.yimg.com;connect-src 'self' https://geo.yahoo.com https://pr.comet.yahoo.com https://server-dev.comet.yahoo.com https://server.comet.yahoo.com https://ws.progrss.yahoo.com https://udc.yahoo.com https://jsapi.login.yahoo.com https://www.yahoo.com https://guce.yahoo.com/ https://ups.analytics.yahoo.com https://api.taboola.com/1.2/json/taboola-usersync/user.sync;default-src 'self' https://s.yimg.com https://s1.yimg.com https://login.yahoo.net;font-src https://s.yimg.com https://s1.yimg.com;frame-ancestors https://*.yahoo.com 'self';frame-src https://pfs.yahoo.com 'self';img-src 'self' data: https://s.yimg.com https://s1.yimg.com https://ct.yimg.com https://geo.yahoo.com https://ws.progrss.yahoo.com;media-src 'none';object-src 'none';report-uri https://csp.yahoo.com/beacon/csp?src=mbr_account;script-src 'self' https://s.yimg.com https://s1.yimg.com https://query.yahoo.com https://*.query.yahoo.com https://y.analytics.yahoo.com https://jsapi.login.yahoo.com https://fc.yahoo.com https://e2e.fc.yahoo.com https://pr.comet.yahoo.com https://server-dev.comet.yahoo.com https://server.comet.yahoo.com https://opus.analytics.yahoo.com/tag/opus.js https://consent.cmp.oath.com/cmp.js https://search.yahoo.com https://*.search.yahoo.com 'nonce-m97eH1C98jY2K4yso8q3ixKynluYdThsO2pVsIruFqsBap/9' ;style-src 'self' https://s.yimg.com 'nonce-m97eH1C98jY2K4yso8q3ixKynluYdThsO2pVsIruFqsBap/9' ;sandbox allow-forms allow-same-origin allow-scripts allow-popups
+X-Frame-Options: DENY
+Set-Cookie: A1=d=AQABBJAac2YCEB-YaMmFJr28Jq7d3x9zKg4FEgEBAQFsdGZ8Ztwr0iMA_eMAAA&S=AQAAAqBLU5q0BFWNDKuUOAsXL98; Expires=Thu, 19 Jun 2025 23:51:12 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure; HttpOnly A3=d=AQABBJAac2YCEB-YaMmFJr28Jq7d3x9zKg4FEgEBAQFsdGZ8Ztwr0iMA_eMAAA&S=AQAAAqBLU5q0BFWNDKuUOAsXL98; Expires=Thu, 19 Jun 2025 23:51:12 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly A1S=d=AQABBJAac2YCEB-YaMmFJr28Jq7d3x9zKg4FEgEBAQFsdGZ8Ztwr0iMA_eMAAA&S=AQAAAqBLU5q0BFWNDKuUOAsXL98; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff

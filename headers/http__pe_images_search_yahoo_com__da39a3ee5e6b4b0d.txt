@@ -1,0 +1,16 @@
+200 OK
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: frame-ancestors none; default-src 'self' 'unsafe-inline' *.search.yahoo.com https://*.yahoo.com https://s.yimg.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.search.yahoo.com https://*.yahoo.com https://s.yimg.com  *; style-src 'self' 'unsafe-inline' *.search.yahoo.com https://*.yahoo.com https://s.yimg.com; img-src 'self' data: *; media-src *; object-src *; connect-src *; font-src *;
+Content-Type: text/html; charset=UTF-8
+X-Envoy-Upstream-Service-Time: 7
+Server: ATS
+Date: Wed, 19 Jun 2024 17:50:51 GMT
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Vary: Accept-Encoding
+X-Envoy-Decorator-Operation: image-k8s--mtls-production-gq1.search--web-image-k8s.svc.yahoo.local:4080/*
+Age: 0
+Retry-Count: 0
+Referrer-Policy: no-referrer-when-downgrade

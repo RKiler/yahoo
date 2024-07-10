@@ -1,0 +1,14 @@
+200 OK
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block
+Content-Length: 7502
+Date: Wed, 19 Jun 2024 17:51:21 GMT
+X-Envoy-Upstream-Service-Time: 7
+Server: ATS
+Age: 0
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Type: text/html; charset=utf-8
+Etag: W/"1d4e-lIOgpogvlEE02ct3uV0arvmm/28"
+X-Content-Type-Options: nosniff

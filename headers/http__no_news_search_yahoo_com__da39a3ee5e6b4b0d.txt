@@ -1,0 +1,17 @@
+200 OK
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 0
+Vary: Accept-Encoding
+Cache-Control: private
+Retry-Count: 0
+Content-Type: text/html; charset=UTF-8
+X-Envoy-Upstream-Service-Time: 312
+Date: Wed, 19 Jun 2024 17:50:51 GMT
+Set-Cookie: PROMO=ltv_pid=&ltv_new=1&ltv_ts=1718819451&ltv_sts=1718819451&ltv_c=1; expires=Thu, 19-Jun-2025 17:50:51 GMT; Max-Age=31535999; path=/; domain=.search.yahoo.com
+Age: 2
+Strict-Transport-Security: max-age=31536000
+Referrer-Policy: no-referrer-when-downgrade
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Frame-Options: DENY
+Server: ATS
+Secure_search_bypass: true

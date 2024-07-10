@@ -1,0 +1,17 @@
+200 OK
+Cache-Control: private, no-store, no-cache, max-age=0
+Vary: Accept-Encoding
+X-Envoy-Upstream-Service-Time: 630
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' https://*.yahoo.com https://*.engadget.com https://*.pnr.ouryahoo.com https://pnr.ouryahoo.com https://*.search.aol.com https://*.onesearch.com https://*.publishing.oath.com https://*.aol.com; sandbox allow-downloads allow-forms allow-modals allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-presentation;
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+Age: 3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Date: Wed, 19 Jun 2024 17:50:12 GMT
+X-Envoy-Decorator-Operation: finance-nodejs--mtls-production-gq1.finance-k8s.svc.yahoo.local:4080/*

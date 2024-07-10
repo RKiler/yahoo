@@ -1,0 +1,15 @@
+204 No Content
+Set-Cookie: A3=d=AQABBHUac2YCEJ_Hxt50dNhyq_s3y0iwbfMFEgEBAQFrdGZ8Ztwr0iMA_eMAAA&S=AQAAAlyBV5RLzXfNZBcn1QWt2Mw; Expires=Thu, 19 Jun 2025 23:50:46 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly
+Content-Length: 0
+Server: ATS
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Pragma: no-cache
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+Date: Wed, 19 Jun 2024 17:50:46 GMT
+Age: 1
+X-Content-Type-Options: nosniff
+Expires: Mon, 15 Jun 1998 00:00:00 GMT
+Cache-Control: no-store, no-cache

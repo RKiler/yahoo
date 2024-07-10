@@ -1,0 +1,21 @@
+200 OK
+Content-Length: 685
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Vary: Origin, Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Etag: W/"2ad-18c60fc7ce8"
+Content-Security-Policy: frame-ancestors *.yahoo.com *.yahoo.com:*/ *.ouroath.com *.ouroath.com:*/
+Cache-Control: public, max-age=0
+Date: Wed, 19 Jun 2024 17:50:30 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Retry-Count: 0
+Access-Control-Allow-Origin: dashboard.flickr.corp.bf1.yahoo.com, prod2-grafana.ia.ceaws.edgecastcdn.net, stg-grafana.ia.ceaws.edgecastcdn.net
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Server: ATS/9.1.10.121
+X-Frame-Options: DENY
+Set-Cookie: okta_csrf_token=sHM-GaZctHbSZgQGus0TH; Domain=yamas.ouroath.com; Path=/; Expires=Wed, 19 Jun 2024 17:53:30 GMT; HttpOnly; Secure; SameSite=None okta_csrf_token=; Domain=yamas.ouroath.com; Path=/; Expires=Wed, 19 Jun 2024 17:50:29 GMT; HttpOnly; Secure; SameSite=None B=45ih8u1j766j6&b=3&s=du; expires=Wed, 19-Jun-2025 17:50:30 GMT; path=/; domain=.yahoo.com
+Accept-Ranges: bytes
+Last-Modified: Wed, 13 Dec 2023 02:23:29 GMT

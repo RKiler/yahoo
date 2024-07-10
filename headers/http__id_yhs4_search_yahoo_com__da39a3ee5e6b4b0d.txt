@@ -1,0 +1,17 @@
+200 OK
+Date: Wed, 19 Jun 2024 17:51:07 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: DENY
+X-Envoy-Upstream-Service-Time: 22
+Age: 2
+X-Content-Type-Options: nosniff
+Secure_search_bypass: true
+Retry-Count: 0
+Server: ATS
+X-Envoy-Decorator-Operation: yhs-k8s--production-sg3.search--web-syc-k8s.svc.yahoo.local:4080/*
+Set-Cookie: PROMO=ltv_pid=&ltv_new=1&ltv_ts=1718819467&ltv_sts=1718819467&ltv_c=1; expires=Thu, 19-Jun-2025 17:51:07 GMT; Max-Age=31536000; path=/; domain=.search.yahoo.com
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,13 @@
+200 
+X-Xss-Protection: 1; mode=block
+Date: Wed, 19 Jun 2024 17:50:35 GMT
+Content-Length: 25
+Retry-Count: 0
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Language: en-US
+Content-Type: text/html;charset=UTF-8
+Cache-Control: public, max-age=900, stale-while-revalidate=3600
+Vary: Access-Control-Request-Headers,User-Agent
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
